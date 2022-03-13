@@ -1,0 +1,14 @@
+{
+  "name": "@halo-dev/md-server",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "Ryan Wang",
+  "license": "MIT",
+  "dependencies": {
+    "@halo-dev/markdown-renderer": "^1.0.0-alpha.50",
+    "express": "^4.17.3"
+  }
+}
