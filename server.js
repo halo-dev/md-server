@@ -1,5 +1,5 @@
 const express = require("express")
-const markdownIt = require("@halo-dev/markdown-renderer").default
+const { markdownIt } = require("@halo-dev/markdown-renderer")
 const app = express()
 
 const PORT = 8000

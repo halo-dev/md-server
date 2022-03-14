@@ -8,7 +8,7 @@
   "author": "Ryan Wang",
   "license": "MIT",
   "dependencies": {
-    "@halo-dev/markdown-renderer": "^1.0.0-alpha.50",
+    "@halo-dev/markdown-renderer": "^1.0.0-alpha.51",
     "express": "^4.17.3"
   }
 }
