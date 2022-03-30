@@ -1,11 +1,11 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@halo-dev/markdown-renderer': ^1.0.0-alpha.51
+  '@halo-dev/markdown-renderer': ^1.0.0
   express: ^4.17.3
 
 dependencies:
-  '@halo-dev/markdown-renderer': 1.0.0-alpha.51
+  '@halo-dev/markdown-renderer': 1.0.0
   express: 4.17.3
 
 packages:
@@ -15,8 +15,8 @@ packages:
     deprecated: Potential XSS vulnerability patched in v6.0.0.
     dev: false
 
-  /@halo-dev/markdown-renderer/1.0.0-alpha.51:
-    resolution: {integrity: sha512-6bberXvYZEVLh5G5xrErSuudU3x15F5PZ4uy7ssvd4+0MyXJr+y7WPZgg3jgZEt+5oSUEglFc+ent5Dv2IKISg==}
+  /@halo-dev/markdown-renderer/1.0.0:
+    resolution: {integrity: sha512-EycEmxmL6fQF0HVMCH9pJvdDhfZFLWC+EB7eq5qEEbGNqqOi267Il//DxanI/CbbGAk43cMPARqfaLE7EMXMNw==}
     engines: {node: '>=12'}
     dependencies:
       '@iktakahiro/markdown-it-katex': 4.0.1
